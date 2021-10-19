@@ -27,6 +27,4 @@ Vous pouvez bombarder sur : https://bartosnicolas.github.io/BomberScript/
 
 Vous pouvez verifier votre mémoire sur : https://bartosnicolas.github.io/memories/
 
-### Mon CV
 
-*Sinon vous pouvez visiter mon CV sur https://bartosnicolas.fr*
