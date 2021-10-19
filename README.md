@@ -8,7 +8,6 @@ Alors profitez en pour vous balader sur mes différents projets persos réalisé
 
 ![Site Web Candidate](thumbnail/candidate_search.jpg)
 
-Vous pouvez gérer vos candidatures sur : https://candidate.wilddev.fr/
 
 ### Labyrinthes
 
